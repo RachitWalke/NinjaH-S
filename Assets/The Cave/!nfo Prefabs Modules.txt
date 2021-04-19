@@ -1,0 +1,2 @@
+If you have a problem with moving prefab on scene (low performance) 
+select prefab modules, turn off the group "Props",  after all just turn on "Props".
